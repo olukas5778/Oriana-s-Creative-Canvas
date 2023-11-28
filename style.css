@@ -1,0 +1,132 @@
+ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+.carousel-inner {max-width: 1600px;
+max-height: 400px}
+
+.carousel-inner img {
+    object-fit: cover;
+    object-position: right;
+    height: 50vh;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    height: 50vh;
+}
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #C4A484;
+    } 
+
+body {background-color: #FEFBEA;}
+
+
+    .nav-link {color: #FFFFFF;
+    font-family: 'DM Serif Display', serif;
+font-weight: bold;
+font-size: 1.5em} 
+
+    .nav-link:hover {
+    color: whitesmoke;} 
+
+    .padded-image {margin-top:25px;
+            padding-block: 45px;
+            background-color: #33160C;
+            float:right;
+            
+    
+            }
+
+
+      h1 {font-family: 'Bodoni Moda', serif; 
+        color: #33160C; text-align: center;
+        } 
+
+        h2{text-align: center;
+    font-family: 'DM Serif Display', serif;
+
+        color: #33160C;
+}
+
+        h3 {font-family:'Forum', serif;
+
+        color: #33160C;
+        font-size: 150%;
+    margin-top:60px;}
+
+   
+
+
+h4 {text-align: center; font-family: 'Forum', serif; 
+        color: #33160C;
+        font-size: 120%;
+    margin-top:60px;
+}
+h5 {font-family:'DM Serif Display', serif;
+        color: white;
+        font-size: 150%;
+    margin-top:30px;
+text-align:center;}
+h6 {font-family:'Forum', serif;
+
+        color: #33160C;
+        font-size: 120%;
+        font-weight: bold;
+
+    }
+
+    h7 {font-family:'Forum', serif;
+
+        color: #33160C;
+        font-size: 160%;
+        font-weight: bold;
+    }
+    
+
+ul { font-family: 'Forum', serif; 
+    font-size: 120%;
+ }
+
+ img {
+  padding: 25px;
+  box-sizing: border-box;
+  background color: #77a08f;
+} 
+
+.special-image {
+    margin:-50px;
+}
+.special-image2 {
+    margin:10px 200px 20px -50px; 
+
+}
+.special-image3 { margin:40px }
+.special-image4 {margin:120px}
+
+a {color: deeppink;
+}
+
+a:hover {color:#AA336A;
+}
+#introduction {background-color:#acbda1;}
+
+#portfolio {background-color: #C4A484;} 
+
+#contact {
+background-color: #C4A484 ;
+
+}
+#carousel-item{ center }
+#Conserve {background-color:#acbda1;}
+
+.element-with-margin {
+  margin: 1in;
+}
+
+
+   
+
